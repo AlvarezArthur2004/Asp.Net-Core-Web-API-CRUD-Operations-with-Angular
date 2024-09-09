@@ -13,23 +13,23 @@ After completing these steps, you will be able to use the application.
 ## In that app you can acquire:
 
  Asp.Net Core API
-EF Model & DB Context Class
-DB Migration
-Controllers
-DI Work in ASP.NET Core
-Case Conversion
-Create Angular App
-APP Structure
-Retrive Existing List of Records
-Retrieve and Display Existing Records in Angular App.
-Configure/Enable CORS Policy
-Render an Array of Objects in Angular
-Design an Angular Form
-Submit the Form
-Reset Form
-Toast Notification
-Angular Form Validation
-Update & Delete Operation
+EF Model & DB Context Class,
+DB Migration,
+Controllers,
+DI Work in ASP.NET Core,
+Case Conversion,
+Create Angular App,
+APP Structure,
+Retrive Existing List of Records,
+Retrieve and Display Existing Records in Angular App.,
+Configure/Enable CORS Policy,
+Render an Array of Objects in Angular,
+Design an Angular Form,
+Submit the Form,
+Reset Form,
+Toast Notification,
+Angular Form Validation,
+Update & Delete Operation,
 
 
  
